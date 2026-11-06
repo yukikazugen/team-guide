@@ -6,3 +6,4 @@
 ## 手順書の一覧
 
 - [PC の準備](docs/setup.md)
+- [レビューの決まり](docs/review.md)
