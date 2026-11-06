@@ -7,3 +7,4 @@
 
 - [PC の準備](docs/setup.md)
 - [レビューの決まり](docs/review.md)
+- [よくある質問](docs/faq.md)
