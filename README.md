@@ -11,3 +11,6 @@
 - [レビューの決まり](docs/review.md)
 - [よくある質問](docs/faq.md)
 - [トラブル対応](docs/troubleshooting.md)
+- 復習：[トラブル対応](docs/troubleshooting.md)
+
+
