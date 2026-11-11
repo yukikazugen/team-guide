@@ -1,3 +1,8 @@
+# Udemyのハンズオンで使ったリポジトリ
+Git・GitHub 入門 〜ブランチ・プルリクエスト・レビュー・競合の解消まで、チーム開発の基本〜
+https://www.udemy.com/share/10fQWz3@gAiVfHO_12TpY23vjvqaWGDDIMH-AF58yJJnlAtiQXk650vzjoNjTfRu5lkBNlpBvQ==/
+
+
 # team-guide
 
 チームの手順書を置くリポジトリです。
